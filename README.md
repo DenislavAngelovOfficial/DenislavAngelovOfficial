@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DenislavAngelovOfficial
 - 👀 I’m interested in coding discord bots
-- 🌱 I’m currently learning discord.js
+- 🌱 I’m currently learning Javacript,Html and Css
 
 <!---
 DenislavAngelovOfficial/DenislavAngelovOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
